@@ -1,0 +1,2 @@
+run = 'npm --prefix ./yongwang run dev'
+entrypoint = './yongwang/pages/index.jsx'
